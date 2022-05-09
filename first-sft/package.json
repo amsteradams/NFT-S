@@ -1,0 +1,16 @@
+{
+  "name": "first-sft",
+  "version": "1.0.0",
+  "description": "first implementation of ERC1155",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "amsteradams",
+  "license": "MIT",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.6.0",
+    "@truffle/hdwallet-provider": "^2.0.8",
+    "dotenv": "^16.0.0"
+  }
+}
